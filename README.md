@@ -10,10 +10,11 @@
 
 # Environmental monitoring modules
 #   Temperature and Humidity monitor
-#
+#     Monitors temperature and humidity for preservation planning. Delivers a warning when exceeding set threshold.
 
 #   Light level monitor
-#
+#     Triggers light fixtures to maintain a comfortable reading level in response to changes in natural lighting.
+#     Monitors light levels for preservation planning. Delivers a warning when exceeding set threshold.
 
 #   Shock sensing
 #     Monitors occasional shocks and tremors for preservation planning, such as users bumping into bookshelves or a large book being slammed.
