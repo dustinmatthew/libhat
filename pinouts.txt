@@ -1,2 +1,4 @@
 Pin Allocations for Each Module Team
 
+Temperature and Humidity Monitor
+GPIO 9
